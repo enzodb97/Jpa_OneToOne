@@ -1,4 +1,4 @@
-## Configuración JPA
+## OneToOne JPA
 
 Aquí mis anteriores proyectos
 
